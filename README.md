@@ -50,9 +50,9 @@ at 8PM we were, me and my BF trying to buy some Junky to get down there (What, n
 So I waited 3 months for my new key, my friend is still laughing at me with everyone and sometimes I meet people she knows and they say : 
 Hey that's you the girl who dropped her key in the glass bubbles ?   
   
-yeah ... it's me, glad to be a legend dude, really :')  
+Yeah ... it's me, glad to be a legend dude, really :')  
   
 ### TL;DR : You have a zipper on your pocket ? Well, use it... you don't know where your key will fall if you don't ... 
 
 
-Natascha
+[<<previous](https://github.com/julouis?tab=repositories) Natascha [next>>](https://github.com/Zena-Alsibaai) 
