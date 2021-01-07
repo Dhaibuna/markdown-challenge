@@ -28,7 +28,7 @@
                     *Papers, Please ( I know I have issues,  maybe due to my Degree ( initiated people only will get the reference)  
                     
 
-3. Read ( You don't wanna know to much about it, there is a risk to be interned in psychiatry)   
+3. Read ( You don't wanna know too much about it, there is a risk to be interned in psychiatry)   
 
 ## You can always count on me when...
 
@@ -52,7 +52,11 @@ Hey that's you the girl who dropped her key in the glass bubbles ?
   
 Yeah ... it's me, glad to be a legend dude, really :')  
   
-### TL;DR : You have a zipper on your pocket ? Well, use it... you don't know where your key will fall if you don't ... 
+##### TL;DR : 
+
+**Lazy you...**
+
+You have a zipper on your pocket ? Well, use it... you don't know where your key will fall if you don't ...
 
 
-[<<previous](https://github.com/julouis?tab=repositories) Natascha [next>>](https://github.com/Zena-Alsibaai) 
+[<<previous](https://github.com/julouis?tab=repositories)**Natascha**[next>>](https://github.com/Zena-Alsibaai) 
