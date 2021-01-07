@@ -8,8 +8,11 @@
 ![Nana](./img/profile.png)
   
 | Birthday | 19/04/1993 |
+| --- | ----------- |
 | Favorite Color | Blue |
+| --- | ----------- |
 | Favorite Food  | Chamia (Google it, or you can also put sugar in the oven |
+| --- | ----------- |
 | Pinneapple on pizza | No, just No |
 
 
