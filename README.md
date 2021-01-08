@@ -8,24 +8,23 @@
 
 ![Nana](./img/profile.png)
   
- Birthday: 19/04/1993  
- Favorite Color :  Blue  
- Favorite Food  Chamia (Google it, or you can also just put sugar in the oven)  
- Pinneapple on pizza ?  
- Yes - []  
- No, definitively no and I insist on that - [X]
-
-
+Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ? | 
+:---:|:---:|:---:|:---:|  
+19/04/1993|  Blue | Chamia |  Yes  &#9744;   No, **I insist**  &#9745; |  
+  
+  
 ## Hobbies :
 
 1. Spending my life to forget what I have to do ...Full-time job some days **JOKING**
 
 2. Play Video Games  
 	* Dragon age saga specially but Heroic Fantasy generally speaking  
-	* League of Legends (but I am bad, like ...really bad)  
+	* League of Legends (but I am bad, like ...really bad) 
+        * Simulation & strategy games
         * Dictatorship games such as :  
                     *Beholder  
                     *Papers, Please ( I know I have issues,  maybe due to my Degree ( initiated people only will get the reference)  
+        
                     
 
 3. Read ( You don't wanna know too much about it, there is a risk to be interned in psychiatry)   
